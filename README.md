@@ -1,8 +1,8 @@
 # 0inicis
 crea un repositori
 
-##Activitats 
-* [1_LlocWeb](
+## Activitats 
+* [1_LlocWeb]( https://blancagm97.github.io/1LlocWeb/)
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
 * [llenguatge etiquetes githup](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
