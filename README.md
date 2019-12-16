@@ -4,6 +4,7 @@ crea un repositori
 ## Activitats 
 * [1_LlocWeb]( https://blancagm97.github.io/1LlocWeb/)
 * [2_CMYK](https://blancagm97.github.io/2CMYK/)
+* [3_broom](https://blancagm97.github.io/3_broopm/)
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
 * [llenguatge etiquetes githup](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
